@@ -1,6 +1,5 @@
 This is a feature created in branch C>
-<<<<<<< HEAD
-=======
+
 
 this is created after D branch was created.
->>>>>>> C
+
