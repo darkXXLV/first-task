@@ -3,3 +3,4 @@ This is feature from brnach B.
 
 This was added after Branch D was created.
 
+This is an addition to feature b, created in test-feature branch.
